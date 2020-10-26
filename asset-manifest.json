@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f8adb39.chunk.css",
-    "main.js": "/static/js/main.930b6733.chunk.js",
-    "main.js.map": "/static/js/main.930b6733.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5c3b6bd7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5c3b6bd7.js.map",
-    "static/js/2.2a6c4527.chunk.js": "/static/js/2.2a6c4527.chunk.js",
-    "static/js/2.2a6c4527.chunk.js.map": "/static/js/2.2a6c4527.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.111dc424144c2edc4210d6eb3df2d086.js": "/precache-manifest.111dc424144c2edc4210d6eb3df2d086.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0f8adb39.chunk.css.map": "/static/css/main.0f8adb39.chunk.css.map",
-    "static/js/2.2a6c4527.chunk.js.LICENSE.txt": "/static/js/2.2a6c4527.chunk.js.LICENSE.txt"
+    "main.css": "/zulimazuli.github.io/xyz/static/css/main.58bae486.chunk.css",
+    "main.js": "/zulimazuli.github.io/xyz/static/js/main.181d8f09.chunk.js",
+    "main.js.map": "/zulimazuli.github.io/xyz/static/js/main.181d8f09.chunk.js.map",
+    "runtime-main.js": "/zulimazuli.github.io/xyz/static/js/runtime-main.9cd17169.js",
+    "runtime-main.js.map": "/zulimazuli.github.io/xyz/static/js/runtime-main.9cd17169.js.map",
+    "static/js/2.30440209.chunk.js": "/zulimazuli.github.io/xyz/static/js/2.30440209.chunk.js",
+    "static/js/2.30440209.chunk.js.map": "/zulimazuli.github.io/xyz/static/js/2.30440209.chunk.js.map",
+    "index.html": "/zulimazuli.github.io/xyz/index.html",
+    "precache-manifest.4907cd7fe709056f8ce63f258e201c26.js": "/zulimazuli.github.io/xyz/precache-manifest.4907cd7fe709056f8ce63f258e201c26.js",
+    "service-worker.js": "/zulimazuli.github.io/xyz/service-worker.js",
+    "static/css/main.58bae486.chunk.css.map": "/zulimazuli.github.io/xyz/static/css/main.58bae486.chunk.css.map",
+    "static/js/2.30440209.chunk.js.LICENSE.txt": "/zulimazuli.github.io/xyz/static/js/2.30440209.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.png": "/zulimazuli.github.io/xyz/static/media/burger-logo.b8503d26.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c3b6bd7.js",
-    "static/js/2.2a6c4527.chunk.js",
-    "static/css/main.0f8adb39.chunk.css",
-    "static/js/main.930b6733.chunk.js"
+    "static/js/runtime-main.9cd17169.js",
+    "static/js/2.30440209.chunk.js",
+    "static/css/main.58bae486.chunk.css",
+    "static/js/main.181d8f09.chunk.js"
   ]
 }
